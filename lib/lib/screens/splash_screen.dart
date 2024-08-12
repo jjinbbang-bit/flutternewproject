@@ -33,7 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
             context, MaterialPageRoute(builder: (_) => const JinhomeScreen()));
       } else {
         Navigator.pushReplacement(
-            context, MaterialPageRoute(builder: (_) => const JinhomeScreen()));
+            context, MaterialPageRoute(builder: (_) => const LoginScreen()));
       }
     });
   }
