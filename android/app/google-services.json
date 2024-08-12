@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "553508340478",
+    "project_id": "mygptrainer",
+    "storage_bucket": "mygptrainer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553508340478:android:c932b333168dc45f685baf",
+        "android_client_info": {
+          "package_name": "com.example.gptrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553508340478-m5h0h4fntr5om4ijn02p0gvemq8nfq91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgy2i2i0604-hmftpsC52o_LRoj4N9Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553508340478-m5h0h4fntr5om4ijn02p0gvemq8nfq91.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553508340478-vm1c0p5s7v8u24aiq3b8gmpip5p963ki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mygptrainer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553508340478:android:2facf95b3d122bf6685baf",
+        "android_client_info": {
+          "package_name": "com.example.mygptrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553508340478-mjdf4pfh8oee10kml65i9qmb7c6r4grk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mygptrainer",
+            "certificate_hash": "7f71e1c8476fcf49080cff2d64567d7c29bf1aae"
+          }
+        },
+        {
+          "client_id": "553508340478-m5h0h4fntr5om4ijn02p0gvemq8nfq91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgy2i2i0604-hmftpsC52o_LRoj4N9Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553508340478-m5h0h4fntr5om4ijn02p0gvemq8nfq91.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553508340478-vm1c0p5s7v8u24aiq3b8gmpip5p963ki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mygptrainer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
